@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://rosemaryvalley.tech/sitemap.xml
